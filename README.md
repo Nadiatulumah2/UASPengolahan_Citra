@@ -15,4 +15,4 @@
 
 # gambar 4 
 
-![WhatsApp Image 2024-07-11 at 23 16 17 (2)](https://github.com/Nadiatulumah2/UASPengolahan_Citra/assets/129835302/ff2df24b-1db4-4106-abcb-8723db4be2e8)
+![WhatsApp Image 2024-07-11 at 23 59 56](https://github.com/Nadiatulumah2/UASPengolahan_Citra/assets/129835302/e03c9a8a-5405-4af9-9c3a-6753c2b9117f)
