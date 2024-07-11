@@ -6,8 +6,13 @@
 
 # gambar 2
 
-![WhatsApp Image 2024-07-11 at 23 16 17 (1)](https://github.com/Nadiatulumah2/UASPengolahan_Citra/assets/129835302/0dc85187-9348-4cdd-9973-1f7f4dec9a2b)
+![WhatsApp Image 2024-07-11 at 23 55 52](https://github.com/Nadiatulumah2/UASPengolahan_Citra/assets/129835302/9e4ead3c-0180-42dd-bfab-a19ac491059c)
+
 
 # gambar 3
 
-![Uploading WhatsApp Image 2024-07-11 at 23.16.17 (2).jpeg…]()
+![WhatsApp Image 2024-07-11 at 23 16 18](https://github.com/Nadiatulumah2/UASPengolahan_Citra/assets/129835302/a7d70db7-425a-40ce-9e32-4280bf0d6c19)
+
+# gambar 4 
+
+![WhatsApp Image 2024-07-11 at 23 16 17 (2)](https://github.com/Nadiatulumah2/UASPengolahan_Citra/assets/129835302/ff2df24b-1db4-4106-abcb-8723db4be2e8)
